@@ -1,0 +1,25 @@
+{
+  "name": "dutch-auction",
+  "version": "1.0.0",
+  "description": "Course Project of INFO7500",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shalibaren/Dutch-Auction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shalibaren/Dutch-Auction/issues"
+  },
+  "homepage": "https://github.com/shalibaren/Dutch-Auction#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "@types/jest": "^29.4.0",
+    "hardhat": "^2.12.6",
+    "solidity-coverage": "^0.8.2"
+  }
+}
