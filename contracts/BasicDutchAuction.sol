@@ -16,7 +16,7 @@ contract DutchAuction {
 
     // bid function
     uint256 public currentPrice;
-    bool auctionEnd;
+    bool public auctionEnd;
     address winnerAddress;
     uint256 winningBid;
 
